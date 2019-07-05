@@ -87,4 +87,5 @@ public class OmsContract {
     @TableField(value = "create_date",strategy = FieldStrategy.NOT_EMPTY)
     private Instant createDate;
 
+
 }
